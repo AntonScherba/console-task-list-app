@@ -1,0 +1,16 @@
+E:\projects\test-tasks\SolarLab\todo-list\bin\Debug\net5.0\todo-list.exe
+E:\projects\test-tasks\SolarLab\todo-list\bin\Debug\net5.0\todo-list.deps.json
+E:\projects\test-tasks\SolarLab\todo-list\bin\Debug\net5.0\todo-list.runtimeconfig.json
+E:\projects\test-tasks\SolarLab\todo-list\bin\Debug\net5.0\todo-list.runtimeconfig.dev.json
+E:\projects\test-tasks\SolarLab\todo-list\bin\Debug\net5.0\todo-list.dll
+E:\projects\test-tasks\SolarLab\todo-list\bin\Debug\net5.0\ref\todo-list.dll
+E:\projects\test-tasks\SolarLab\todo-list\bin\Debug\net5.0\todo-list.pdb
+E:\projects\test-tasks\SolarLab\todo-list\obj\Debug\net5.0\todo-list.csprojAssemblyReference.cache
+E:\projects\test-tasks\SolarLab\todo-list\obj\Debug\net5.0\todo-list.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\test-tasks\SolarLab\todo-list\obj\Debug\net5.0\todo-list.AssemblyInfoInputs.cache
+E:\projects\test-tasks\SolarLab\todo-list\obj\Debug\net5.0\todo-list.AssemblyInfo.cs
+E:\projects\test-tasks\SolarLab\todo-list\obj\Debug\net5.0\todo-list.csproj.CoreCompileInputs.cache
+E:\projects\test-tasks\SolarLab\todo-list\obj\Debug\net5.0\todo-list.dll
+E:\projects\test-tasks\SolarLab\todo-list\obj\Debug\net5.0\ref\todo-list.dll
+E:\projects\test-tasks\SolarLab\todo-list\obj\Debug\net5.0\todo-list.pdb
+E:\projects\test-tasks\SolarLab\todo-list\obj\Debug\net5.0\todo-list.genruntimeconfig.cache
